@@ -1,0 +1,9 @@
+FASTQ1:
+  class: File
+  path: ./reads_1.fastq.gz
+FASTQ2: 
+  class: File
+  path: ./reads_2.fastq.gz
+INDEX: 
+  class: File
+  path: ./transcripts.index
