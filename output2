@@ -1,0 +1,33 @@
+Sun Jun  4 13:21:48 UTC 2017
+{
+    "outTSV": [
+        {
+            "checksum": "sha1$d9db9853d23a8d9608e0d5be6970cd2f64407978", 
+            "basename": "abundance.tsv", 
+            "http://commonwl.org/cwltool#generation": 0, 
+            "location": "file:///home/stevehtsang/Kallisto-ISBCGC/abundance.tsv", 
+            "path": "/home/stevehtsang/Kallisto-ISBCGC/abundance.tsv", 
+            "class": "File", 
+            "size": 591
+        }, 
+        {
+            "checksum": "sha1$84339799ffa9dc1a196eb91f9f24073f35863a7d", 
+            "basename": "run_info.json", 
+            "http://commonwl.org/cwltool#generation": 0, 
+            "location": "file:///home/stevehtsang/Kallisto-ISBCGC/run_info.json", 
+            "path": "/home/stevehtsang/Kallisto-ISBCGC/run_info.json", 
+            "class": "File", 
+            "size": 409
+        }, 
+        {
+            "checksum": "sha1$2bc8d698d8e6ae997b17b688803cf9f240aec9ac", 
+            "basename": "abundance.h5", 
+            "http://commonwl.org/cwltool#generation": 0, 
+            "location": "file:///home/stevehtsang/Kallisto-ISBCGC/abundance.h5", 
+            "path": "/home/stevehtsang/Kallisto-ISBCGC/abundance.h5", 
+            "class": "File", 
+            "size": 35848
+        }
+    ]
+}
+Sun Jun  4 13:22:21 UTC 2017

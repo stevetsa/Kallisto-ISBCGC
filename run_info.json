@@ -1,0 +1,9 @@
+{
+	"n_targets": 15,
+	"n_bootstraps": 0,
+	"n_processed": 10000,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Sun Jun  4 13:22:21 2017",
+	"call": "kallisto quant -o temp -i /var/lib/cwl/stgbff71c02-2890-4a8f-8e6a-27fc2dce8eeb/transcripts.index /var/lib/cwl/stgb0a4ac13-9de6-4ebc-9e71-2afa1d9d89c4/reads_1.fastq.gz /var/lib/cwl/stge46d3b94-0e37-4101-b470-08359abe5ead/reads_2.fastq.gz"
+}
